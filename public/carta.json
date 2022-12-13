@@ -1,0 +1,92 @@
+[
+    {
+        "desc": "El taco es una tortilla de maíz, que se enrolla y contiene diversos ingredientes y algún tipo de salsa.",
+        "id": "P001",
+        "img": "https://images.pexels.com/photos/4958792/pexels-photo-4958792.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "Tostadas",
+            "Palta",
+            "Choclo",
+            "Poroto negro",
+            "Carne, pollo y chorizo"
+            ],
+        "name": "Tacos",
+        "price": 10490,
+        "type": "Comidas"
+    },
+    {
+        "desc": "Las enchiladas se elaboran con tortilla de maíz, bañada en una salsa picante, al utilizar chile en su preparación están rellenas de pollo, deshebrado con papa, queso y picadillo.",
+        "id": "P002",
+        "img": "https://images.pexels.com/photos/9772454/pexels-photo-9772454.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "Tortilla de maíz",
+            "Chile",
+            "Nata",
+            "Jitomate",
+            "Pollo"
+        ],
+        "name": "Enchiladas",
+        "price": 11990,
+        "type": "Comidas"
+    },
+    {
+        "desc": "La tortilla mexicana es el símbolo y la tradición más antigua de la cocina mexicana.",
+        "id": "P003",
+        "img": "https://images.pexels.com/photos/7613555/pexels-photo-7613555.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "Tortilla de maíz",
+            "Guacamole",
+            "Choclo",
+            "Chile",
+            "Cebolla",
+            "Tomate"
+        ],
+        "name": "Tortillas",
+        "price": 9990,
+        "type": "Comidas"
+    },
+    {
+        "desc": "El tequila margarita se distingue entre otros cócteles por su sabor cítrico mezclado con tequila y hielo en escarcha.",
+        "id": "P004",
+        "img": "https://images.pexels.com/photos/2480828/pexels-photo-2480828.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "Tequila",
+            "Licor de naranja",
+            "Limón",
+            "azucar",
+            "Hielo"
+        ],
+        "name": "Tequila Margarita",
+        "price": 6500, 
+        "type": "Tragos"
+    },
+    {
+        "desc": "Receta mexicana que obtiene su nombre por la mezcla de granadina junto al jugo de naranja y el tequila, que le dan unos tonos muy parecidos a un amanecer.",
+        "id": "P005",
+        "img": "https://images.pexels.com/photos/4753648/pexels-photo-4753648.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "ingredients": [
+            "Jugo natural de naranja",
+            "Tequila",
+            "Granadina",
+            "Hielo",
+            "Naranjas para decorar"
+        ],
+        "name": "Tequila Sunrise",
+        "price": 5500,
+        "type": "Tragos"
+    },
+    {
+        "desc": "El tequila es una de las bebidas emblemáticas de México, que es obtenida del agave azul.",
+        "id": "P006",
+        "img": "https://images.pexels.com/photos/6554949/pexels-photo-6554949.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+
+        "ingredients": [
+            "Tequila",
+            "Limón",
+            "Sal"
+            ],
+        "name": "Tequila ",
+        "price": 4500,
+        "type": "Tragos"
+    }
+]
